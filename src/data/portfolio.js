@@ -129,7 +129,7 @@ export const experience = [
     role: "Technical Director",
     period: "Sep 2025 – Sep 2026", // [Placeholder] add dates
     points: [
-      "Technical leadership and robotics projects mentoring.
+      "Technical leadership and robotics projects mentoring."
     ],
   },
 ];

@@ -7,7 +7,7 @@
 
 // ---------- BASIC INFO (hero section) ----------
 export const site = {
-  name: "Ahmed Mohamed Salah Mwafy",
+  name: "Ahmed Mwafy",
   shortName: "Ahmed Mwafy",
   title: "Mechatronics Engineering Student | Robotics & Autonomous Systems",
   description:
@@ -33,7 +33,7 @@ export const navLinks = [
   { label: "Projects", href: "#projects" },
   { label: "Skills", href: "#skills" },
   { label: "Experience", href: "#experience" },
-  { label: "Education", href: "#education" },
+  //{ label: "Education", href: "#education" },
   { label: "Contact", href: "#contact" },
 ];
 
